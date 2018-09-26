@@ -1,0 +1,18 @@
+
+
+CmdLine:	C:\Users\dell\Desktop\Aptech Core Java\12-07-2018\NoteCom\dist\NoteCom.exe --l4j-debug
+WOW64:		yes
+Check launcher:	 (n/a)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Match:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_172
+Using 64-bit runtime.
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Ignore:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_172
+Using 64-bit runtime.
+Check launcher:	C:\Program Files(x86)\Java\jre1.8.0_172\bin\javaw.exe (OK)
+Launcher:	C:\Program Files(x86)\Java\jre1.8.0_172\bin\javaw.exe
+Launcher args:	-jar "C:\Users\dell\Desktop\Aptech Core Java\12-07-2018\NoteCom\dist\NoteCom.exe"
+Args length:	81/32768 chars
+Exit code:	0
